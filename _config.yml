@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title:            alykhantejani.com
+locale:           en_US
+url:              https://alykhantejani.github.io
+baseurl:          ""
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Alykhan Tejani
+  avatar: bio-photo.jpg
+  bio: "Hi! My name is Aly. I am currently a Research Engineer at <a class='author-bio-link' href='http://www.twitter.com'>Twitter</a>. Previously at <a class='author-bio-link' href='www.blippar.com'>Blippar</a> and <a class='author-bio-link' href='http://www.goldmansachs.com/'>Goldman Sachs</a>. Imperial College alumnus. Check out the <a class='author-bio-link' href = '/'>about</a> page for more information."
+  email:
+  disqus-shortname:
+  twitter: alykhantejani
+  facebook: #username
+  google:
+    plus: AlykhanTejani
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: alykhantejani
+  stackoverflow: 225814/aly
+  linkedin: alykhantejani
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
