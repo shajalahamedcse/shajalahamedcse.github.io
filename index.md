@@ -20,12 +20,12 @@ After this I went on to work at a augmented reality and visual search startup ca
 
 ## Present
 
-Currently I work as a Research Engineer for <a href="https://twitter.com">Twitter</a>, focussed on computer vision applications using deep learning. My research interests are currently around using computer vision for lower-level vision tasks such as super resolution and artifact removal, with possible applications to image/video compression and enhancement.
+Currently I work as a Research Engineer(Software Division) for <a href="https://renata-ltd.com/">Twitter</a>, focussed on computer vision applications using deep learning. My research interests are currently around using computer vision for lower-level vision tasks such as super resolution and artifact removal, with possible applications to image/video compression and enhancement.
 <br />
 
 ## Future
 
-...who knows, get in contact with me at alykhan[dot]tejani[at]gmail[dot]com
+...who knows, get in contact with me at shajalahamedcse[at]gmail[dot]com
 
 ## Publications
 
