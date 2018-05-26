@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            alykhantejani.com
+title:            shajalahamedcse.com
 locale:           en_US
-url:              https://alykhantejani.github.io
+url:              https://shajalahamedcse.github.io
 baseurl:          ""
 
 
@@ -28,23 +28,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Alykhan Tejani
+  name: Shajal Ahamed
   avatar: bio-photo.jpg
-  bio: "Hi! My name is Aly. I am currently a Research Engineer at <a class='author-bio-link' href='http://www.twitter.com'>Twitter</a>. Previously at <a class='author-bio-link' href='www.blippar.com'>Blippar</a> and <a class='author-bio-link' href='http://www.goldmansachs.com/'>Goldman Sachs</a>. Imperial College alumnus. Check out the <a class='author-bio-link' href = '/'>about</a> page for more information."
-  email:
+  bio: "Hi! My name is Shajal. I am currently a Research Engineer(Software Division) at <a class='author-bio-link' href='http://www.twitter.com'>Twitter</a>. . CUET student. Check out the <a class='author-bio-link' href = '/'>about</a> page for more information."
+  email: shajalahamedcse@gmail.com
   disqus-shortname:
-  twitter: alykhantejani
+  twitter:
   facebook: #username
   google:
-    plus: AlykhanTejani
+    plus: ShajalAhamed
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: alykhantejani
-  stackoverflow: 225814/aly
-  linkedin: alykhantejani
+  github: shajalahamedcse
+  stackoverflow: 5609026/shajal-ahamed
+  linkedin: shajal-ahamed-277a3379
   xing: #username
   instagram: #username
   lastfm: #username
